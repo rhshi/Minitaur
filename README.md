@@ -5,6 +5,6 @@ I implemented distributional policy gradient in PyBullet's Minitaur environment.
 
 <sup>1</sup> [https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On)
 
-<sup>2</sup>[https://arxiv.org/pdf/1707.06887.pdf](https://arxiv.org/pdf/1707.06887.pdf)
+<sup>2</sup> [https://arxiv.org/pdf/1707.06887.pdf](https://arxiv.org/pdf/1707.06887.pdf)
 
-<sup>3</sup>[https://arxiv.org/pdf/1710.02298.pdf](https://arxiv.org/pdf/1710.02298.pdf)
+<sup>3</sup> [https://arxiv.org/pdf/1710.02298.pdf](https://arxiv.org/pdf/1710.02298.pdf)
